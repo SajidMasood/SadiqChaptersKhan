@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">1300 Math Formulas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation -->
+    <string name="menu_home">DashBoard</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="rate_us">Rate us</string>
+    <string name="menu_share">Share</string>
+    <string name="feedback">Feedback</string>
+
+    <!-- Rating Dialog -->
+    <string name="rate_your_experience">Rate Your Experience</string>
+    <string name="rate_msg">if you enjoy using app \n would you mind ratting us,then…?</string>
+    <string name="submit">Submit</string>
+    <string name="no_thanks">No, Thanks</string>
+    <string name="rating_error">Please select rate</string>
+    <string name="feedback_hint">Tell us where we can improve?</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_feedback">Please Enter your Feedback</string>
+    <string name="feedback_mail" translatable="false">sajidmaseeed@gmail.com</string>
+</resources>

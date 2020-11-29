@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0DB1C6</color>
+    <color name="colorPrimaryDark">#08ABC1</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="gradientbg">#B6FAB3</color>
+    <color name="bgColor">#F2F3F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#F5F2F2</color>
+
+    <color name="recyclerItemColor">#62C8D5</color>
+    <color name="recyclerItemArrow">#68CAD6</color>
+</resources>

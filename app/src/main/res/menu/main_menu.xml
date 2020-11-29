@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_search"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+    <item
+        android:id="@+id/ic_rate_us"
+        android:icon="@drawable/ic_rating"
+        android:title="@string/rate_us"
+        android:orderInCategory="101"/>
+    <item
+        android:id="@+id/ic_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/menu_share"
+        android:orderInCategory="102"/>
+    <item
+        android:id="@+id/ic_moreapps"
+        android:icon="@drawable/ic_moreapps"
+        android:title="More Apps"
+        android:orderInCategory="103"/>
+    <item
+        android:orderInCategory="104"
+        android:id="@+id/ic_exit"
+        android:title="Exit"/>
+</menu>
